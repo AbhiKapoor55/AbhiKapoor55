@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I'm Abhi! I'm a 4th year Computer Science student at the University of Toronto, and an aspiring Software Developer. 
+### ⚡ I have experience with Backend (Java, C#, SpringBoot, Express.js, Microservices, and AWS) as well as CI/CD (GitHub Actions, Jenkins, Scripting) and Frontend (Angular.js, HTML/CSS, JavaScript) 
+### 🌱 I have about 2 years of industry work experience. Most recently, I worked at Thomson Reuters as a Software Developer Intern for 16 months. 
+### 👯 I'm looking for teammates for CSC454. 
+
 <!--
 **AbhiKapoor55/AbhiKapoor55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
